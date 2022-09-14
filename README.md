@@ -1,4 +1,4 @@
-# Repositório de aulas ao vivo para estudantes da Turma 27 - Tribo B
+# Repositório de aulas ao vivo da Turma 27 - Tribo B
 
 Este repositório armazena os códigos e scripts fornecidos durante as aulas ao vivo pelas pessoas especialistas da Trybe.
 
