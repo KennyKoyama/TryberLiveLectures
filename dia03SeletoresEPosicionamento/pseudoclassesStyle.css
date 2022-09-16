@@ -27,6 +27,8 @@
 
 .additional {
     background-color: blueviolet;
+    width: 200px;
+    height: 200px;
 }
 .additional h3 {
     color: blue;
