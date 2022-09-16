@@ -11,20 +11,25 @@
 
 .primary {
     background-color: blue;
+    color: violet;
 }
 
 .secondary {
     background-color: violet;
+    color: blueviolet
 }
 
 .additional {
     background-color: blueviolet;
+    color: blue;
 }
 
 .dark {
     background-color: darkblue;
+    color: lightblue;
 }
 
 .light {
     background-color: lightblue;
+    color: darkblue;
 }
