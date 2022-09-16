@@ -14,7 +14,8 @@ li {
 }
 
 li:hover {
-    
+    transition-property: background-color;
+    transition-duration: 0.5s;
     background-color: aquamarine;
 }
 
