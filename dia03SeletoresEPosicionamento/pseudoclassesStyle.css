@@ -6,4 +6,25 @@
     height: 150px;
     text-align: center;
     border: 1px solid transparent;
+    margin: 10px;
+}
+
+.primary {
+    background-color: blue;
+}
+
+.secondary {
+    background-color: violet;
+}
+
+.additional {
+    background-color: blueviolet;
+}
+
+.dark {
+    background-color: darkblue;
+}
+
+.light {
+    background-color: lightblue;
 }
