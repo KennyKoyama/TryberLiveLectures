@@ -1,11 +1,19 @@
 * {
     text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
 }
+
 h1, p {
     text-align: center;
 }
 
+li {
+    width: fit-content;
+}
+
 li:hover {
+    
     background-color: aquamarine;
 }
 
