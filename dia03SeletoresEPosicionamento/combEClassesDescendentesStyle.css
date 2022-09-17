@@ -1,0 +1,8 @@
+ul li {
+    background-color: yellow;
+    color: green;
+}
+ul li:nth-child(odd) {
+    text-transform: uppercase;
+}
+
