@@ -1,9 +1,15 @@
 ul li {
     background-color: yellow;
     color: green;
+    font-size: 20px;
 }
+
 ul li:nth-child(odd) {
     text-transform: uppercase;
+}
+
+ul li em {
+    font-weight: bold;
 }
 
 h1, h3 {
@@ -14,3 +20,4 @@ h1 em, h3 em {
     font-size: 40px;
     border: 1px solid black;
 }
+
