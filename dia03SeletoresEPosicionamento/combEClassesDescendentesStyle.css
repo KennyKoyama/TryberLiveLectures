@@ -1,14 +1,18 @@
-ul li {
+ol li {
     background-color: yellow;
     color: green;
-    font-size: 20px;
+    
 }
 
-ul li:nth-child(odd) {
+ol li:nth-child(odd) {
     text-transform: uppercase;
 }
 
-ul li em {
+li {
+    font-size: 20px;
+}
+
+li em {
     font-weight: bold;
 }
 
@@ -20,4 +24,3 @@ h1 em, h3 em {
     font-size: 40px;
     border: 1px solid black;
 }
-
