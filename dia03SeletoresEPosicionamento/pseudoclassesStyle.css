@@ -9,6 +9,11 @@
     margin: 10px;
 }
 
+.color:nth-of-type(3) {
+    width: 200px;
+    height: 200px;
+}
+
 .primary {
     background-color: blue;
 }
@@ -28,8 +33,7 @@
 
 .additional {
     background-color: blueviolet;
-    width: 200px;
-    height: 200px;
+
 }
 .additional h3 {
     color: blue;
