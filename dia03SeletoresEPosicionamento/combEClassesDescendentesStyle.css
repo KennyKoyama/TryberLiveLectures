@@ -25,3 +25,11 @@ h1 em, h3 em {
     font-size: 40px;
     border: 1px solid black;
 }
+
+ul:first-of-type li:nth-child(-n+3) {
+    color: blue;
+}
+
+.java {
+    background-color: pink;
+}
