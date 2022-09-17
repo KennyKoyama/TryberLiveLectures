@@ -6,6 +6,7 @@ ol li {
 
 ol li:nth-child(odd) {
     text-transform: uppercase;
+    color: black;
 }
 
 li {
