@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ranking</title>
     <style>
+      * {
+        list-style-type: none;
+        box-sizing: border-box;
+        text-align: center;
+        }
       h1 {
         text-align: center;
       }
@@ -32,6 +37,33 @@
         text-align: center;
         width: 300px;
       }
+      
+      .top-3 {
+        background-color: aqua;
+      }
+
+      .top-3 ul {
+        display: block;
+      }
+
+      .top-3 ul li {
+        position: relative;
+        margin: 0 auto;
+        
+      }
+
+      .top-3 ul li:not(:first-of-type) {
+        display: inline-block;
+        
+      }
+
+      .inline {
+        display: inline;
+      }
+
+      .inl-block {
+        display: inline-block;
+      }
 
     </style>
   </head>
@@ -39,7 +71,7 @@
     <header>
       <h1>Hackathon Results</h1>
     </header>
-    <section>
+    <section class="top-3">
       <ul>
         <li class="first">1º - Equipe 1</li>
         <li class="second">2º - Equipe 2</li>
