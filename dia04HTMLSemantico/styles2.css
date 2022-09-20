@@ -41,3 +41,23 @@ main h2 {
     text-decoration: underline;
     margin-bottom: 1.5rem;
 }
+
+.classificacao {
+    float: right;
+    background-color: black;
+    border: 1px solid;
+    margin-left: 1rem;
+    border-radius: 0.1em;
+    padding: 1em;
+    text-align: justify;
+}
+
+.classificacao caption {
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.introducao {
+    /* background-color: blue; */
+    margin: 0 1rem;
+}
