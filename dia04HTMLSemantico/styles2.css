@@ -73,6 +73,21 @@ main h2 {
     margin-top: 0.5em;
     /* margin-left: 0.5em; */
 }
-.visao {
+.visao, .patas, .femea, .referencias, .video {
     margin-top: 3rem;
 }
+
+footer {
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer p {
+    color: black;
+}
+
+iframe {
+    display: none;
+}
+
