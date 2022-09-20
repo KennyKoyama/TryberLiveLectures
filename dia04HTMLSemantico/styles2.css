@@ -11,3 +11,22 @@ header {
     padding: 1rem;
     text-align: center;
 }
+
+nav ul {
+    text-align: end;
+    background-color: black;
+    /* padding: 0.5rem; */
+}
+nav ul li{
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    border: 1px solid black;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    color: rgb(189, 93, 189);
+}
