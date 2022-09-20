@@ -45,7 +45,6 @@ main {
 }
 
 main h2 {
-    /* background-color: red; */
     text-decoration: underline;
     margin-bottom: 1.5rem;
 }
@@ -65,13 +64,8 @@ main h2 {
     margin-bottom: 1em;
 }
 
-.introducao {
-    /* background-color: blue; */
-    /* margin: 0 0.5rem; */
-}
 .introducao p {
     margin-top: 0.5em;
-    /* margin-left: 0.5em; */
 }
 .visao, .patas, .femea, .referencias, .video {
     margin-top: 3rem;
@@ -90,4 +84,3 @@ footer p {
 iframe {
     display: none;
 }
-
